@@ -18,8 +18,8 @@
   2.将你希望抓取的微博用户的微博id每人为一行记录在xjjid.txt中，且你的账号需要关注这些微博用户
   
   
-  3.如果你是在java ide中，直接运行XiaojiejieApp(如果你是打成jar包使用，则cmd中使用  java -jar xxxx.jar)命令
-  
+  3.如果你是在java ide中，直接运行XiaojiejieApp(如果你是打成jar包使用，则cmd中使用  java -jar xxxx.jar)命令 (注意phantomjs.exe 与 xjjid.txt都需要在项目的根目录下！)
+  
   
   4.开始运行第一步是唤起浏览器将code复制输入到程序中,与 http://blog.csdn.net/xyw_blog/article/details/8907918类似
   
