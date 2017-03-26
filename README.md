@@ -4,7 +4,7 @@
 
 #项目环境:
 
-  java8 + selenium java (http://www.seleniumhq.org/download/   只需要下载java的那个zip包) + weibo4j-oauth2.jar(https://github.com/sunxiaowei2014/weibo4j-oauth2-beta3.1.1/) 
+  java8 + selenium java (http://www.seleniumhq.org/download/   只需要下载java的那个zip包) + weibo4j-oauth2.jar(https://github.com/sunxiaowei2014/weibo4j-oauth2-beta3.1.1/) （jar包直接下载：http://download.csdn.net/download/besthuchen/9604854）
  
   并配置以上两个第三方库所依赖的其他第三方库
 
